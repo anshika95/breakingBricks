@@ -1,0 +1,23 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{4C439787-0218-A190-0B0C-2FF8304A6954}") = "breaking-bricks", "Assembly-CSharp.csproj", "{7489639C-EDB0-0D03-0ADE-121DC9A7979E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7489639C-EDB0-0D03-0ADE-121DC9A7979E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7489639C-EDB0-0D03-0ADE-121DC9A7979E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7489639C-EDB0-0D03-0ADE-121DC9A7979E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7489639C-EDB0-0D03-0ADE-121DC9A7979E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
